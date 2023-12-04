@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there, I'm Jeremias Esperanza! 👋
 
-<!--
-**JerryEsperanza/JerryEsperanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about coding and adept in managing databases. I thrive on solving intricate problems and architecting elegant solutions. My journey in tech commenced with the BS Information Technology program.
 
-Here are some ideas to get you started:
+## Education
+- **BS Computer Science**
+  - New Era University
+  - 2021-Present
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+- [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=5ADEF1ADB382E9D15EFE29C5E284AF085064F2F5385C12585FF6F52E8C23AA30)
+- [Oracle Cloud Data Management 2023 Certified Foundations Associate](Certification_Link_2)
+- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](Certification_Link_3)
+- [SQL and Relational Databases 101](Certification_Link_4)
+
+## Skill Sets
+- **Programming:** Java, JavaScript
+- **Databases:** IBM DB2 Cloud
+- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
+
+## Let's Connect!
+- LinkedIn: [LinkedIn Profile](Your_LinkedIn_Profile_Link)
+- Email: jeremias.esperanza@gmail.com
